@@ -1,0 +1,6 @@
+## Security Checklist
+- Reentrancy protection
+- Input validation
+- Access control
+- Safe math
+- Event logging
