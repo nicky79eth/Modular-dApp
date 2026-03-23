@@ -1,0 +1,7 @@
+export default function ConnectButton({ connect, account }) {
+  return (
+    <button onClick={connect}>
+      {account ? account.slice(0, 6) + "..." : "Connect Wallet"}
+    </button>
+  );
+}
