@@ -1,0 +1,17 @@
+# 🧱 Modular Web3 Vault
+
+A production-ready vault system.
+
+## Stack
+- Solidity (contracts)
+- Node.js (backend relayer)
+- React (frontend)
+- The Graph (indexing)
+
+## Architecture
+- Contracts handle logic
+- Backend aggregates data
+- Frontend displays state
+
+## Why this matters
+This structure mimics real DeFi protocols.
