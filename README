@@ -9,7 +9,7 @@ A production-ready vault system.
 - The Graph (indexing).
 
 ## Architecture
-- Contracts handle logic
+- Contracts handle logic.
 - Backend aggregates data
 - Frontend displays state
 
