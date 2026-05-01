@@ -11,7 +11,7 @@ A production-ready vault system.
 ## Architecture
 - Contracts handle logic.
 - Backend aggregates data.
-- Frontend displays state
+- Frontend displays state.
 
 ## Why this matters
 This structure mimics real DeFi protocols.
