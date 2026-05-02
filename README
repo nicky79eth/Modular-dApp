@@ -5,7 +5,7 @@ A production-ready vault system.
 ## Stack
 - Solidity (contracts)..
 - Node.js (backend relayer)..
-- React (frontend).
+- React (frontend)..
 - The Graph (indexing).
 
 ## Architecture
