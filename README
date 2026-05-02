@@ -6,7 +6,7 @@ A production-ready vault system.
 - Solidity (contracts)..
 - Node.js (backend relayer)..
 - React (frontend)..
-- The Graph (indexing).
+- The Graph (indexing)..
 
 ## Architecture
 - Contracts handle logic.
